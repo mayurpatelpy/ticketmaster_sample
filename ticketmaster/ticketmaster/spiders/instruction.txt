@@ -1,0 +1,14 @@
+Require modules
+1. Python 
+2. scrapy
+3. Request
+4. Pandas
+5. Json
+
+
+After installed above pakage/library you should open project 
+from scrapy.cfg file in any ide then open spider directory.
+where you seen data_extraction.py spider/python file.
+open that file and run that file you get output csv file on
+same spider path.
+
